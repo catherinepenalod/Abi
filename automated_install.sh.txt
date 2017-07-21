@@ -1,0 +1,6 @@
+﻿ProductID=amzn1.application.cdab6d4ae8c34e00ab5cd48b04d63325
+ClientID=amzn1.application-oa2-client.c9518aa2a3ab4cedbabcb1ff9681665c
+Client Secret=b194cf21a0152d74a21b3130f7ff76e72d48fe4ab421b1faac9f60f0b2435503
+
+
+Country=’US’
