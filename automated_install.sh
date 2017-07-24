@@ -1,0 +1,5 @@
+ProductID=Abi
+ClientID=amzn1.application-oa2-client.c9518aa2a3ab4cedbabcb1ff9681665c
+ClientSecret=b194cf21a0152d74a21b3130f7ff76e72d48fe4ab421b1faac9f60f0b2435503
+
+Country='US'
